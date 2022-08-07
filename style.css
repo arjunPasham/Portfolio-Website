@@ -1,15 +1,21 @@
 h1{
-    color: red;
+    color: #0000ff;
+    margin: 20px;
+    padding: 15px;
 }
 
 body{
-    background-color: beige;
+    background-color: #808080;
 }
 
 .header{
-    background-color: cadetblue;
+    background-color: #008000;
     display : flex;
     justify-content: space-between;
+    border-width: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
 }
 
 .grid{
